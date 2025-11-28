@@ -43,10 +43,8 @@ A personalized fitness and nutrition mobile application that generates custom wo
 
 ## Authors
 
-- Hamza Rashdan
+- Hamza Al-Rashdan
 - Mohamad Refai
 - Mohammed Al Muslemawi
 
-## Acknowledgments
 
-Developed as a Senior Project at German Jordanian University under the supervision of Dr. Abdullah Alfarrarjeh and Dr. Amani Abujabal.
