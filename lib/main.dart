@@ -9,7 +9,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: FirebaseOptions(
-        apiKey: "AIzaSyAJcjEdEw_xx6Q5jF6qxwJ48w_wNQ9JGQQ",
+        apiKey: "YOUR_API_KEY_HERE",
         authDomain: "fitmind-a97cc.firebaseapp.com",
         projectId: "fitmind-a97cc",
         storageBucket: "fitmind-a97cc.appspot.com",
@@ -21,7 +21,7 @@ void main() async {
   } else {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyAJcjEdEw_xx6Q5jF6qxwJ48w_wNQ9JGQQ",
+        apiKey: "YOUR_API_KEY_HERE",
         authDomain: "fitmind-a97cc.firebaseapp.com",
         projectId: "fitmind-a97cc",
         storageBucket: "fitmind-a97cc.appspot.com",
@@ -51,3 +51,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
