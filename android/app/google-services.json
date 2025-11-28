@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632458835208",
+    "project_id": "fitmind-a97cc",
+    "storage_bucket": "fitmind-a97cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632458835208:android:34335b4cf0ba9adb6e68bd",
+        "android_client_info": {
+          "package_name": "com.example.fitmind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuecy-pqUA4z9WgmVzg4BSvfE0iz4wx_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
